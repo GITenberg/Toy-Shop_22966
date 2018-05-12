@@ -1,0 +1,38 @@
+_repo: Toy-Shop_22966
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brey, Charles
+    gutenberg_agent_id: '8565'
+    url: http://www.gutenberg.org/2009/agents/8565
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harrison, Harry
+    aliases:
+    - Harrison, Henry Maxwell
+    - Dempsey, Henry Maxwell
+    birthdate: 1925
+    deathdate: 2012
+    gutenberg_agent_id: '25395'
+    url: http://www.gutenberg.org/2009/agents/25395
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Harrison_%28writer%29
+description: The model rocket was strictly, beyond any question, a toy. Not a real,
+  working device--except that it did work.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: Toy Shop
+url: http://www.gutenberg.org/ebooks/22966
