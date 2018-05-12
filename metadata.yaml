@@ -21,6 +21,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Harry_Harrison_%28writer%29
 description: The model rocket was strictly, beyond any question, a toy. Not a real,
   working device--except that it did work.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22966#Toy-Shop
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-10-12'
 gutenberg_type: Text
